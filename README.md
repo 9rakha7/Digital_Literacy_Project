@@ -28,6 +28,8 @@ The goal of this assignment was to apply digital literacy principles through pra
 - **VS Code:** As the primary code editor.
 
 Google form link:https://forms.gle/5prbmEsF9DSq5qAc8
+LinkedIn:www.linkedin.com/in/prakhar-jaiswal-51255733b
+Github:https://github.com/9rakha7
 
 
 ## 🏁 Conclusion
